@@ -117,7 +117,7 @@ view: QueryStats_Minute_Interval {
     # }
     link: {
       label: "Analyze This Query"
-      url: "https://emcedev.cloud.looker.com/dashboards/7?Text={{ filterable_value | url_encode }}"
+      url: "https://emcedev.cloud.looker.com/dashboards/36?Text={{ filterable_value | url_encode }}"
       icon_url: "http://google.com/favicon.ico"}
     link: {
       label: "Example/Dummy Query Plan"
